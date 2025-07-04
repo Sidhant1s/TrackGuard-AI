@@ -52,22 +52,34 @@ TrackGuard AI is modular and expandable. Additional capabilities that can be int
 
 ---
 
+## ❗ Use Policy Notice
+
+**TrackGuard AI** is free for non-commercial use, public research, humanitarian initiatives, and educational deployment.
+
+🚫 **Not permitted**: Use by corporations, government contractors, or national-level deployment without explicit permission.
+
+Any entity using TrackGuard AI for profit, enterprise infrastructure, or product resale must contact the creator and obtain a **commercial license or partnership agreement**.
+
+Violation of this use policy will be considered misuse of intellectual property, and appropriate action may be taken.
+
+---
+
 ## 🔓 License
 
 This project is released under the **Apache 2.0 License**.
 It is free for public, academic, humanitarian, and commercial use — with proper attribution.
 
 * **Creator**: [Sidhant Negi](https://github.com/Sidhant1s/Sidhant1s)
-* **Repository**: [GitHub - TrackGuard AI](https://github.com/Sidhant1s/Sidhant1s)
+* **Repository**: [Sidhant1s/TrackGuard-AI: 🚆 TrackGuard AI – A conceptual radar and sensor-based obstacle detection system to prevent railway accidents. Developed for public benefit and open for global collaboration.](https://github.com/Sidhant1s/TrackGuard-AI)
 
 > Suggested attribution:
-> \*“Based on TrackGuard AI by Sidhant Negi – \**[https://github.com/Sidhant1s/Sidhant1s”](https://github.com/Sidhant1s/Sidhant1s”)*
+> \*“Based on TrackGuard AI by Sidhant Negi –\*[Sidhant1s/Sidhant1s](https://github.com/Sidhant1s/Sidhant1s) \* \*\*
 
 ---
 
 ## 📫 Contact & Collaboration
 
 Feel free to fork, suggest improvements, or use it in real-world safety infrastructure projects.
-For collaboration or partnership: contact via [GitHub](https://github.com/Sidhant1s/Sidhant1s) .
+For collaboration or partnership: contact via Email: [sidhantnegi68@gmail.com](mailto:sidhantnegi68@gmail.com)
 
 ---
